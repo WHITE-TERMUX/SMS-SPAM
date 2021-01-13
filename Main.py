@@ -1,5 +1,5 @@
-#!bin/python
 #crete by: white termux
+
 import requests
 from threading import Thread
 import random
