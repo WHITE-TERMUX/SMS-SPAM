@@ -3,7 +3,7 @@
 import requests
 from threading import Thread
 import random
-from termcolor import colored
+from color import colored
 
 print(colored( '''
 
